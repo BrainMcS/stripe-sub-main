@@ -3,7 +3,7 @@
 ## 1. Clone the project
 
 ```bash
-git clone https://github.com/marclou/stripe-sub-main.git
+git clone https://github.com/BrainMcS/stripe-sub-main.git
 cd stripe-subscriptions
 ```
 
